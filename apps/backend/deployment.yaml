@@ -20,6 +20,8 @@ spec:
         ports:
         - containerPort: 5000
   envFrom:
-  - configMapRef:
+    - configMapRef:
       name: backend-config
+    - secretRef:
+      name: db-secret
 
