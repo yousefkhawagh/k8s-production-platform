@@ -1,2 +1,1 @@
-# Production- Kubernetes Platform (SRE Level)
-
+# Production- Kubernetes Platform 
