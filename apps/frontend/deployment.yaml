@@ -16,6 +16,6 @@ spec:
       serviceAccountName: frontend-sa
       containers:
       - name: frontend
-        image: yourdockerhub/frontend:latest
+        image: yousefkhawagh/frontend:latest
         ports:
         - containerPort: 80
