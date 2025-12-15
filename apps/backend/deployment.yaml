@@ -19,3 +19,7 @@ spec:
         image: yousefkhawagh/backend:latest
         ports:
         - containerPort: 5000
+  envFrom:
+  - configMapRef:
+      name: backend-config
+
