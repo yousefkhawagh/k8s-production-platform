@@ -16,6 +16,6 @@ spec:
       serviceAccountName: backend-sa
       containers:
       - name: backend
-        image: yourdockerhub/backend:latest
+        image: yousefkhawagh/backend:latest
         ports:
         - containerPort: 5000
