@@ -1,7 +1,7 @@
-# Production-Grade Kubernetes Platform (SRE Focus)
+# Production- Kubernetes project 
 
 This project demonstrates a **production-ready Kubernetes platform**
-designed using **DevOps and Site Reliability Engineering (SRE) best practices**.
+designed using **DevOps best practices**.
 
 The goal of this repository is to showcase real-world Kubernetes concepts
 beyond basic deployments, focusing on **security, scalability, and reliability**.
